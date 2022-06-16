@@ -8,6 +8,7 @@
 # 1. Clone this repo as it is!
 # 2. Open Terminal/cmd prompt, change the directory to the location of this repo
 # 3. Run the cmd 'python3 community_version.py -i image_file_path'
+#   - For Windows Users using Git-bash type - "python community_version.py -i ./example/ztm-logo.png" to see an working example 
 # 4. Get the output on cmd window and checkout the saved text file too
 # 5. To see what more the script can do with ascii, run: 'python3 community_version.py --help`
 
